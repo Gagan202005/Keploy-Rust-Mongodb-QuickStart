@@ -327,7 +327,3 @@ docker compose up -d mongo mongo-express
 Please ⭐ the repo and share feedback!
 
 Happy testing with Keploy 🐰✨
-
-makefile
-Copy code
-::contentReference[oaicite:0]{index=0}
