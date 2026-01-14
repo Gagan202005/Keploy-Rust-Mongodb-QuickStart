@@ -26,6 +26,23 @@ This repository is a **Rust + MongoDB** sample application integrated with **Kep
 
 ---
 
+## Project Structure
+
+```bash
+Keploy-Rust-Mongodb-QuickStart/
+├── src/
+│   └── main.rs
+├── Cargo.toml
+├── Cargo.lock
+├── Dockerfile
+├── docker-compose.yml
+├── .gitignore
+├── README.md
+└── keploy/
+    └── test-set-0/
+        ├── tests/
+        └── mocks/
+```
 ## ⚙️ Prerequisites
 
 Make sure you have these installed:
